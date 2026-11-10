@@ -4,7 +4,7 @@ package cce105;
 	import java.util.LinkedList;
 	import java.util.Scanner;
 
-	public class LabActPermCombi {
+	public class Main {
 
 	    static Scanner input = new Scanner(System.in);
 
